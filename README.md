@@ -1,5 +1,4 @@
 # MAD-LAB Questions list:
-# Mobile Application Development Lab Exercises
 
 ## Lab 1: Basics of Android Mobile Application Development Tool
 1. Create an Android application to show the demo of displaying text with justifying elements, changing text colors, fonts, etc.
