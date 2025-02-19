@@ -27,7 +27,7 @@
         android:textOff="Toggle Off"
         android:padding="10dp" />
 </LinearLayout>
-
+```
 ### Mainactivity.java
 ```java
 package com.example.q1_test_toast;
