@@ -1,4 +1,4 @@
-## Q4: Create a Calculator app that does the function of multiplication, addition, division, subtraction but displays the result in the format of:-Num1 operator num2 = result. Back button on the next activity should get back to the calculator activity again. 
+## Create a Calculator app that does the function of multiplication, addition, division, subtraction but displays the result in the format of:-Num1 operator num2 = result. Back button on the next activity should get back to the calculator activity again. 
 ### Activity_main.xml
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
