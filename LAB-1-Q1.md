@@ -1,4 +1,4 @@
-## Q1: Create an Android application to show the demo of displaying text with justifying elements, changing text colors ,fonts etc. 
+## Create an Android application to show the demo of displaying text with justifying elements, changing text colors ,fonts etc. 
 
 ### activity_main.xml
 ```xml
