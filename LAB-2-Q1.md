@@ -1,4 +1,4 @@
-## Q3: Create an app that illustrates that the activity lifecycle method being triggered by various action. Understand when onCreate(),onStart(),onResume event occur.
+## Create an app that illustrates that the activity lifecycle method being triggered by various action. Understand when onCreate(),onStart(),onResume event occur.
 ### activity_main.xml
 ```xml
 Activity_main.xml
