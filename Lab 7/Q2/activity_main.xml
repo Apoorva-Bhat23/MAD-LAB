@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <!-- Icon Image that triggers the PopupMenu -->
+    <ImageView
+        android:id="@+id/iconImage"
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:src="@drawable/icon"
+        android:contentDescription="Icon Image"
+        android:layout_marginBottom="20dp" />
+
+    <!-- ImageView to display selected images -->
+    <ImageView
+        android:id="@+id/displayImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:contentDescription="Displayed Image"
+        android:scaleType="centerInside" />
+
+</LinearLayout>
