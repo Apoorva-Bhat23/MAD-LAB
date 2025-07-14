@@ -1,5 +1,5 @@
 package com.example.moviereview;
-mmmmmmmmmm
+mmm
 import android.database.Cursor;
 import android.os.Bundle;
 import android.widget.TextView;
