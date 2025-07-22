@@ -1,4 +1,4 @@
-mmmmmmmmmmmpackage com.example.moviereview;
+ com.example.moviereview;
 
 import android.database.Cursor;
 import android.os.Bundle;
